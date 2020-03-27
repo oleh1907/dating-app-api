@@ -14,7 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DatingApp.DAL\DatingApp.DAL.csproj" />
     <ProjectReference Include="..\DatingApp.DBL\DatingApp.DBL.csproj" />
+    <ProjectReference Include="..\DatingApp.DTOs\DatingApp.DTOs.csproj" />
   </ItemGroup>
 
 
