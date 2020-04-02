@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DatingApp.DTOs
 {
-    public class UserForRegisterDTO
+    public class UserForRegisterDto
     {
         [Required]
         public string Username { get; set; }
